@@ -1,2 +1,2 @@
 # CV
- https://alexejgomozov.github.io/cv/
+ https://alexejgomozov.github.io/CV/
